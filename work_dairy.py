@@ -1,4 +1,4 @@
-import tkinter as Tk
+from tkinter import *
 import webbrowser
 import PIL
 import os
@@ -10,7 +10,7 @@ Width	= 300
 class Controller(object):
 	"""Controller for handling all event"""
 	def __init__( self ):
-		self.windows = Tk.Tk( )
+		self.windows = Tk( )
 		self.windows.title( 'WorkingDairy' )
 		self.windows.geometry( ('%dx%d+0+0' % (Width, Height)) )
 		self.windows.resizable( 0, 0 )

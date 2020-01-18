@@ -1,4 +1,4 @@
-import tkinter as Tk
+from tkinter import *
 import webbrowser
 import PIL
 import os
