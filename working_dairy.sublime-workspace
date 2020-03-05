@@ -1,0 +1,1051 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"con",
+				"continue"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"train",
+				"train_data_path"
+			],
+			[
+				"ba",
+				"batch"
+			],
+			[
+				"batch",
+				"batch_size"
+			],
+			[
+				"test",
+				"test_data"
+			],
+			[
+				"tra",
+				"transforms"
+			],
+			[
+				"get",
+				"getting_list"
+			],
+			[
+				"tag",
+				"tag_list"
+			],
+			[
+				"com",
+				"com_list"
+			],
+			[
+				"usin",
+				"using_tensorboard"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"tyr",
+				"try\tTry/Except"
+			],
+			[
+				"de",
+				"dest"
+			],
+			[
+				"us",
+				"using_tensorboard"
+			],
+			[
+				"po",
+				"port"
+			],
+			[
+				"ti",
+				"thing"
+			],
+			[
+				"por",
+				"porting"
+			],
+			[
+				"sft",
+				"sftp_get"
+			],
+			[
+				"tr",
+				"try\tTry/Except"
+			],
+			[
+				"deb",
+				"debug"
+			],
+			[
+				"re",
+				"requires_grad"
+			],
+			[
+				"from",
+				"fromRGB"
+			],
+			[
+				"op",
+				"optimizer_R"
+			],
+			[
+				"pae",
+				"parameters"
+			],
+			[
+				"pa",
+				"parameters"
+			],
+			[
+				"pre",
+				"preda_real"
+			],
+			[
+				"preda",
+				"preda_fake"
+			],
+			[
+				"Di",
+				"Dis"
+			],
+			[
+				"Pi",
+				"PIC"
+			],
+			[
+				"rea",
+				"real_PIC"
+			],
+			[
+				"test_",
+				"test_pic"
+			],
+			[
+				"loss",
+				"loss_D"
+			],
+			[
+				"Summa",
+				"summary"
+			],
+			[
+				"Dis",
+				"discriminator"
+			],
+			[
+				"pic",
+				"pic_size"
+			],
+			[
+				"ma",
+				"machine"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"los",
+				"loss_D"
+			],
+			[
+				"add",
+				"add_argument"
+			],
+			[
+				"lo",
+				"loss_log_file"
+			],
+			[
+				"ini",
+				"init_floder"
+			],
+			[
+				"cs",
+				"canvas_list"
+			],
+			[
+				"main",
+				"__main__"
+			],
+			[
+				"def",
+				"def\tFunction"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"s",
+				"stdin"
+			],
+			[
+				"f",
+				"fprintf\tfprintf …"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"eve",
+				"event_queue"
+			],
+			[
+				"A",
+				"Addr"
+			],
+			[
+				"ble",
+				"ble_process"
+			],
+			[
+				"pri",
+				"private"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"q",
+				"question"
+			],
+			[
+				"RF",
+				"RfChip"
+			],
+			[
+				"ste",
+				"steps"
+			],
+			[
+				"wa",
+				"wait"
+			],
+			[
+				"_pin",
+				"_pinDir"
+			],
+			[
+				"Sta",
+				"State_Get_item"
+			],
+			[
+				"D",
+				"Data2Mem"
+			],
+			[
+				"b",
+				"b00000000_00000000_00000000_00000000"
+			],
+			[
+				"I",
+				"IR_addr"
+			],
+			[
+				"end",
+				"end"
+			],
+			[
+				"a",
+				"always\talways"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"Dat",
+				"DataB"
+			],
+			[
+				"Da",
+				"DataA"
+			],
+			[
+				"DE",
+				"define"
+			],
+			[
+				"wid",
+				"wid_name"
+			],
+			[
+				"wid_",
+				"wid_name"
+			],
+			[
+				"tar",
+				"tar_frame"
+			],
+			[
+				"sho",
+				"shotratio"
+			],
+			[
+				"fo",
+				"focus"
+			],
+			[
+				"nam",
+				"name_entry"
+			],
+			[
+				"new",
+				"new_app"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"goo",
+				"google_password"
+			],
+			[
+				"tk",
+				"tkraise"
+			],
+			[
+				"n",
+				"new_app"
+			],
+			[
+				"wi",
+				"widgets"
+			],
+			[
+				"cha",
+				"change_photo"
+			],
+			[
+				"choo",
+				"choosing_photo"
+			],
+			[
+				"fis",
+				"First_Use"
+			],
+			[
+				"entr",
+				"entry"
+			],
+			[
+				"Show",
+				"show_mark"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"num",
+				"number"
+			],
+			[
+				"for",
+				"forward"
+			],
+			[
+				"e",
+				"entry_position"
+			],
+			[
+				"pad",
+				"pady"
+			],
+			[
+				"bu",
+				"button_position"
+			],
+			[
+				"bo",
+				"button_position"
+			],
+			[
+				"la",
+				"Label"
+			],
+			[
+				"app",
+				"new_app"
+			],
+			[
+				"fra",
+				"frames"
+			],
+			[
+				"sl",
+				"self"
+			],
+			[
+				"en",
+				"enter_entry_list"
+			],
+			[
+				"fi",
+				"first_entry_position"
+			],
+			[
+				"go",
+				"go_position"
+			],
+			[
+				"Go",
+				"Go_button"
+			],
+			[
+				"u",
+				"uint8"
+			],
+			[
+				"H",
+				"Height"
+			],
+			[
+				"r",
+				"resize"
+			],
+			[
+				"Im",
+				"Image"
+			],
+			[
+				"W",
+				"Width"
+			],
+			[
+				"rule",
+				"rules"
+			],
+			[
+				"ru",
+				"rules"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"log",
+				"log_check"
+			],
+			[
+				"check",
+				"checkbox"
+			],
+			[
+				"im",
+				"image"
+			],
+			[
+				"but",
+				"button_size"
+			],
+			[
+				"sh",
+				"show_app"
+			],
+			[
+				"ca",
+				"callback"
+			],
+			[
+				"al",
+				"alien1"
+			],
+			[
+				"De",
+				"DEBUG"
+			],
+			[
+				"debu",
+				"DEBUG"
+			],
+			[
+				"fa",
+				"fake_PIC"
+			],
+			[
+				"fak",
+				"fake_PIC"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"Su",
+				"Summary_Path"
+			],
+			[
+				"img",
+				"img_type"
+			],
+			[
+				"All_a",
+				"All_Spa"
+			],
+			[
+				"AllH",
+				"All_Hp"
+			],
+			[
+				"Spa",
+				"Spa"
+			],
+			[
+				"_",
+				"_listing_page"
+			],
+			[
+				"ep",
+				"epoch_num"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "work_dairy.py",
+			"settings":
+			{
+				"buffer_size": 662,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_build.py",
+			"settings":
+			{
+				"buffer_size": 683,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_bind.py",
+			"settings":
+			{
+				"buffer_size": 97,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"Package Control: u",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"sublimerepl:shell",
+				"SublimeREPL: Shell"
+			],
+			[
+				"Sub",
+				"SublimeREPL: Shell"
+			],
+			[
+				"SublimeREPL",
+				"SublimeREPL: Shell"
+			],
+			[
+				"Su",
+				"SublimeREPL: OCaml utop"
+			],
+			[
+				"Package Control: up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Package Control: li",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: In",
+				"Package Control: Install Package"
+			],
+			[
+				"Color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"Packagev",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Pacage Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Pacage Control: u",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Package Control: install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 420.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"clear",
+			"0.001",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/nettoycrick/Desktop/Working_Dairy"
+	],
+	"file_history":
+	[
+		"/Users/nettoycrick/Desktop/Working_Dairy/working_dairy.sublime-project",
+		"/Users/nettoycrick/Desktop/MonitorGame/新建文件夹 (2)/游戏说明.txt",
+		"/Users/nettoycrick/Desktop/print(\"I have DA GG\")",
+		"/Users/nettoycrick/Downloads/Adobe Zii 5.1.8_[Adobezii.com]/GateKeeper_Helper.command",
+		"/Users/nettoycrick/Desktop/pokemon/src/MSG_128/trainNtest.py",
+		"/Users/nettoycrick/Desktop/pokemon/src/128_remaster/trainNtest.py",
+		"/Users/nettoycrick/Desktop/pokemon/src/Get_Data.py",
+		"/Users/nettoycrick/Desktop/pokemon/src/Pic/pokemon_pic_128.py",
+		"/Users/nettoycrick/Desktop/pokemon/src/MSG_128/model.py",
+		"/Users/nettoycrick/Desktop/pokemon/src/128_remaster/model.py",
+		"/Users/nettoycrick/Desktop/pokemon/src/Origin/trainNtest.py",
+		"/Users/nettoycrick/Desktop/pokemon/log/MSG_pixel_all_fix_noise_concole.log",
+		"/Users/nettoycrick/Desktop/Dir_/ANSYS/src/vol_loss/voltrainNtest.py",
+		"/Users/nettoycrick/Desktop/pokemon/src/128/trainNtest.py",
+		"/Users/nettoycrick/Desktop/pokemon/src/128/model.py",
+		"/Users/nettoycrick/Desktop/pokemon/src/model.py",
+		"/Users/nettoycrick/Desktop/pokemon/src/trainNtest.py",
+		"/Users/nettoycrick/Desktop/pokemon/src/pokemon_pic.py",
+		"/Users/nettoycrick/Desktop/Working_Dairy/_bind.py",
+		"/Users/nettoycrick/Desktop/Working_Dairy/_build.py",
+		"/Users/nettoycrick/Desktop/Working_Dairy/work_dairy.py",
+		"/Users/nettoycrick/Desktop/work_dairy.py",
+		"/Users/nettoycrick/Desktop/_build.py",
+		"/Users/nettoycrick/Desktop/_bind.py",
+		"/Users/nettoycrick/Desktop/try.cpp",
+		"/Users/nettoycrick/Library/Application Support/Sublime Text 3/Packages/User/sublime-ycmd.sublime-settings",
+		"/Users/nettoycrick/Library/Application Support/Sublime Text 3/Packages/YouCompleteMe/sublime-ycmd.sublime-settings",
+		"/Users/nettoycrick/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/nettoycrick/Desktop/pokemon/src/app.py",
+		"/Users/nettoycrick/Desktop/hci/app.py",
+		"/Users/nettoycrick/Desktop/spi.py",
+		"/Users/nettoycrick/Mbed/Merge_Final_Program/Wifi.h",
+		"/Users/nettoycrick/Mbed/Merge_Final_Program/mbedtls_entropy_config.h",
+		"/Users/nettoycrick/Mbed/Merge_Final_Program/ble_handle.h",
+		"/Users/nettoycrick/Mbed/Merge_Final_Program/ble.h",
+		"/Users/nettoycrick/Mbed/RFID-Example/MFRC522.cpp",
+		"/Users/nettoycrick/Mbed/RFID-Example/MFRC522.h",
+		"/Users/nettoycrick/Mbed/A4988_example/main.cpp",
+		"/Users/nettoycrick/Mbed/Merge_Final_Program/a4988stepper.h",
+		"/Users/nettoycrick/Mbed/Merge_Final_Program/RFID.h",
+		"/Users/nettoycrick/Mbed/Merge_Final_Program/network-helper.h",
+		"/Users/nettoycrick/Mbed/Merge_Final_Program/mbed_app.json",
+		"/Users/nettoycrick/Mbed/Merge_Final_Program/stepper.h",
+		"/Users/nettoycrick/Mbed/Merge_Final_Program/a4988.h",
+		"/Users/nettoycrick/Mbed/Stepper_uri2003/main.cpp",
+		"/Users/nettoycrick/Mbed/Stepper_uri2003/Stepper/Stepper.cpp",
+		"/Users/nettoycrick/Mbed/Stepper_uri2003/Stepper/Stepper.h",
+		"/Users/nettoycrick/Mbed/mbed-os-example-ble-Button/source/ButtonService.h",
+		"/Users/nettoycrick/Mbed/mbed-os-example-ble-Button/source/main.cpp",
+		"/Users/nettoycrick/Mbed/mbed-os-example-wifi/mbed_app.json",
+		"/Users/nettoycrick/Mbed/mbed-os-example-wifi/main.cpp",
+		"/Users/nettoycrick/Mbed/http-example/network-helper.h",
+		"/Users/nettoycrick/Mbed/http-example/mbed-os/tools/arm_pack_manager/__init__.py",
+		"/Users/nettoycrick/Mbed/http-example/source/select-demo.h",
+		"/Users/nettoycrick/Mbed/http-example/mbed_app.json",
+		"/Users/nettoycrick/Mbed/mbed-http/mbed_lib.json",
+		"/Users/nettoycrick/Mbed/mbed-http/main.cpp",
+		"/Users/nettoycrick/Mbed/mbed-http/test_setup.h",
+		"/Users/nettoycrick/Mbed/mbed-http/http_parser/LICENSE",
+		"/Users/nettoycrick/Mbed/mbed-http/http_parser/http_parser.h",
+		"/Users/nettoycrick/Mbed/OV7670_Test_Code/mbed.bld拷貝",
+		"/Users/nettoycrick/Desktop/HW4_r4/run.tcl",
+		"/Users/nettoycrick/Desktop/HW4_r4/SingleCycleMIPS_han.v",
+		"/Users/nettoycrick/Desktop/HW4_r4/data/mem_data.txt",
+		"/Users/nettoycrick/Downloads/simpleFrameGrabber-master/endian.h",
+		"/Users/nettoycrick/Downloads/simpleFrameGrabber-master/byte-consts.h",
+		"/Users/nettoycrick/Downloads/simpleFrameGrabber-master/build",
+		"/Users/nettoycrick/Downloads/simpleFrameGrabber-master/qqvga",
+		"/Users/nettoycrick/Downloads/simpleFrameGrabber-master/main.c",
+		"/Users/nettoycrick/Downloads/prog3/public_cases/public_case_6.in",
+		"/Users/nettoycrick/Downloads/prog3/public_cases/public_case_7.in",
+		"/Users/nettoycrick/Downloads/prog3/public_cases/public_case_8.in",
+		"/Users/nettoycrick/Downloads/prog3/public_cases/public_case_1.in",
+		"/Users/nettoycrick/Desktop/HW4_r4/SingleCycleMIPS.v",
+		"/Users/nettoycrick/Desktop/HW4_r4/HSs18n_128x32.v",
+		"/Users/nettoycrick/Desktop/HW4_r4/SingleCycleMIPS.sdc",
+		"/Users/nettoycrick/Desktop/app.py",
+		"/Users/nettoycrick/Desktop/ArduCAM.cpp",
+		"/Users/nettoycrick/Desktop/ArduCAM.h",
+		"/Users/nettoycrick/Desktop/ov7660_regs.h",
+		"/Users/nettoycrick/Desktop/memorysaver.h",
+		"/Users/nettoycrick/Downloads/DISCO_L475VG_IOT01-Telegram-BOT-28cf58359411/arducam_regs.h",
+		"/Users/nettoycrick/Desktop/Dir_/src/vol_loss/voltrainNtest.py",
+		"/Users/nettoycrick/Desktop/Dir_/src/vol_loss/Utest.py",
+		"/Users/nettoycrick/Desktop/Dir_/src/Readme",
+		"/Users/nettoycrick/Desktop/Dir_/src/utility.py",
+		"/Users/nettoycrick/Desktop/Dir_/src/vol_loss/model_volfrac_dis.py",
+		"/Users/nettoycrick/Desktop/pokemon/src/voltrainNtest.py",
+		"/Users/nettoycrick/Downloads/Train_Loss_Gen.svg",
+		"/Users/nettoycrick/Desktop/HW3/sample/findmax/testfixture.v",
+		"/Users/nettoycrick/Desktop/HW3/sample/findmax/findmax.v",
+		"/Users/nettoycrick/Desktop/HW3/testfixture.v",
+		"/Users/nettoycrick/Desktop/HW3/tsmc13.v",
+		"/Users/nettoycrick/Desktop/HW3/matvecmult.v",
+		"/Users/nettoycrick/Desktop/pokemon/pic/405-Sunny Form.txt",
+		"/Users/nettoycrick/Desktop/pokemon/pic/405-Sunny Form.jpg",
+		"/Users/nettoycrick/Desktop/pokemon/pokemon_pic.py",
+		"/Users/nettoycrick/Desktop/pokemon_pic.py",
+		"/Users/nettoycrick/Desktop/data.npz",
+		"/Users/nettoycrick/Desktop/main.cpp",
+		"/Users/nettoycrick/Desktop/src/trainNtest.py",
+		"/Users/nettoycrick/Desktop/src/data.py",
+		"/Users/nettoycrick/Desktop/src/utility.py",
+		"/Users/nettoycrick/Desktop/src/model_new.py",
+		"/Users/nettoycrick/Downloads/hw2_b06901036/03_training.sh",
+		"/Users/nettoycrick/Downloads/hw2_b06901036/mix2_10.hed",
+		"/Users/nettoycrick/Downloads/hw2_b06901036/proto",
+		"/Users/nettoycrick/Desktop/ble_scan_connect.py",
+		"/Users/nettoycrick/Desktop/rotate_axes3d.py",
+		"/Users/nettoycrick/Desktop/64/trainNtest.py",
+		"/Users/nettoycrick/Desktop/64/utility.py",
+		"/Users/nettoycrick/Desktop/64/data.py",
+		"/Users/nettoycrick/Desktop/64/test.py",
+		"/Users/nettoycrick/Downloads/HW3/testfixture.v",
+		"/Users/nettoycrick/Downloads/HW3/matvecmult.v",
+		"/Users/nettoycrick/Desktop/64/utility.pt.tex",
+		"/Users/nettoycrick/Desktop/40000_0.in",
+		"/Users/nettoycrick/Desktop/case2.first",
+		"/Users/nettoycrick/Desktop/PA2/pa2_.cpp",
+		"/Users/nettoycrick/Desktop/pa2.cpp",
+		"/Users/nettoycrick/Desktop/PA2/pa2_new.cpp",
+		"/Users/nettoycrick/Desktop/20000.out",
+		"/Users/nettoycrick/Desktop/PA2/100_1.out",
+		"/Users/nettoycrick/Desktop/PA2/here",
+		"/Users/nettoycrick/Desktop/PA2/100.out",
+		"/Users/nettoycrick/Desktop/PA2/here2",
+		"/Users/nettoycrick/Desktop/PA2/100.in",
+		"/Users/nettoycrick/Desktop/PA2/20000.in"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "work_dairy.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 662,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								575,
+								575
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_build.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 683,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								153,
+								153
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_bind.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 97,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 418.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "working_dairy.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/list.pl"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 112.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
